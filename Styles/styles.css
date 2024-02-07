@@ -5,12 +5,14 @@ main img{
 }
 
 
-aside{width: 20rem;
+aside{
+    width: 20rem;
     margin: 1rem;
     border: 1px solid rgba(red, green, blue, alpha);
     padding: 1rem;
     background-color: #eee;
-    color: #333;}
+    color: #333;
+}
 p{padding: 0;}
 footer{margin-top: 15px;
     border-top: 1px solid #000;
